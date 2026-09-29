@@ -1,4 +1,7 @@
-## Overview
+Issabekova Tomiris, IT3-2304
+
+## Laboratory work 1
+
 This is Lab 1 of the Advanced Web Technologies course. The project is a small course catalog demonstrating the core concepts of the Next.js App Router: file-based routing, Server and Client Components, dynamic routes, and TypeScript typing. Data is currently served from a mocked in-memory source with a simulated delay; a real backend (FastAPI) will replace it in later labs.
 
 ## What's implemented
@@ -55,7 +58,7 @@ Likes are stored in local component state only and reset on page reload by desig
 
 
 
-## Lab 2: Styling with Tailwind CSS and shadcn/ui
+## Laboratory work 2
 
 In this lab, I styled the course catalog using Tailwind CSS and shadcn/ui. The UI was refactored to use pre-built accessible components, made fully responsive across devices, and enhanced with a system-based dark mode.
 
